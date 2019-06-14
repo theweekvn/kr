@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+<meta name="description" content="더위크 내추럴 베타글루칸 페이스 앤 넥 마스크">
+<meta name="keyword" content="mask, mask pack, 마스크팩, 더위크, 스킨케어, 얼굴, 목, 베타글루칸, 차콜, 더위크내추럴베타글루칸, 오크라, 양귀비, 화장품, beta glucan">
+<meta name="author" content="유니모스">
+<meta name="Copyright" content="유니모스">
+<meta name="Robots" content="ALL">
+<meta name="robots" content="index,follow" />
